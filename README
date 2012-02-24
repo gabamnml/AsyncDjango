@@ -1,0 +1,6 @@
+To use this script you need to install Django tornadowebserver you can get from here http://www.tornadoweb.org/
+
+Once you have installed run.py put into the folder of your Django, you write in your terminal: python run.py 127.0.0.1
+This by default will run on your localhost and port 8000 but you can assign another IP and port by simply writing it right there replacing it by the current IP.
+
+Any query, doubt or bug to write me on twitter @ gabamnml or mail to aramburu.gabriel AT gmail DOT com
